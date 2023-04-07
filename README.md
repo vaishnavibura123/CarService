@@ -15,7 +15,7 @@ The following repair services are available:
 * Clutch fixing (CF01)
 * Brake fixing (BF01)
 ## Requirements
-
+In order to utilize this program, it is necessary to have the Java Development Kit (JDK) and an Integrated Development Environment (IDE), such as IntelliJ IDEA, installed on your system, along with an appropriate editor.
 ## Working
 * This project aims to create a user-friendly platform for customers to request car maintenance services. Users can input their car's make and model, as well as the desired services, and receive a detailed bill that includes any applicable discounts or free services. 
 * The goal is to simplify the process of getting car maintenance by providing a personalized experience that meets the customer's specific needs. 
